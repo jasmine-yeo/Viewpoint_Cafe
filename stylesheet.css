@@ -1,12 +1,40 @@
-<!DOCTYPE html>
 
-<head>
 
-<style>
-div {
-	background:;
+
+div.pageheader {
+	background: url("http://christchurchfelixstowe.org.uk/web/images/stories/general/beach2.jpg");
+	background-size: 100% 100%;
+	padding-top: 20px;
+	padding-bottom: 170px;
+	padding-right: 20px;
+	padding-left: 20px;
+	background-color: #100000; 
+	background-repeat:no-repeat;
+}
+body {
+	
+	background-position: center;
+	background-size: 100%;
+	background-color: rgba(0, 30, 30, 0.5);
 
 }
-
-</style>
-</head>
+h1 {
+	margin-top: 0px;
+	font-family: 'Hammersmith One', serif;
+	color: rgba(120,120,120,1);
+	padding-left: 200px;
+}
+h3 {
+	padding-left: 200px;
+	color: white;
+}
+p {
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-bottom: 10px;
+	color: white;
+}
+a {
+	padding-left: 200px;
+	padding-bottom: 20px;
+}
